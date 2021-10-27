@@ -1,0 +1,14 @@
+# Project exclude paths
+/target/
+/.idea/.gitignore
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/compiler.xml
+/.idea/hydra.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/codeStyles/Project.xml
+/.idea/runConfigurations.xml
+/.idea/sbt.xml
+/.idea/scala_compiler.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
